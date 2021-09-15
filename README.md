@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**erick-efc/erick-efc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Thanks for your visit!
 
-Here are some ideas to get you started:
+I'm Erick a former Marketing Manager that decided to make a **career shift to become a software engineer**. I love everything that I have built so far, but during COVID-19 I started to learn another profession aiming the long run, but I was so engaged with this new world that I decided to start over now and make it my new living. I'm extremely curious, self-learner and a challenge driven person, please feel free to reach me out.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently studying: 
+- [École 42](https://42.fr/en/homepage/): C / programming fundaments
+- [Codecademy](www.codecademy.com): Javascript (part of software engineering path)
+- [USP-Esalq](https://mbauspesalq.com/):  MBA
+
+Interests and other:
+- 🐾 Animals
+- 🌳 Nature
+- ✈️ Travel
+- 👾 Games
+- 🚀 Tech
+- 🎓 bachelor's degree in advertising and marketing
+- 🎓 Finishing my MBA
+- 🗣️ PT | EN | SP 
+- 📫 How to reach me: [ecampos.efc@gmail.com](mailto:ecampos.efc@gmail.com) | [Linkedin](https://www.linkedin.com/in/-ec-/) 
