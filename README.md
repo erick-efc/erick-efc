@@ -1,16 +1,10 @@
 ### Hi there 👋
 
-Thanks for your visit!
+I'm Erick, thanks for your visit!
 
-I'm Erick and I am on my way to become a Data Engineering/Data Scientist.
-
-Studying: 
-- [École 42](https://42.fr/en/homepage/): C / programming fundaments
-- [Datacamp](www.datacamp.com): Python, Web Cloud, Machine Learning, Data Engineering Path, Data Scientist Path
-
-Done:
-- 🎓 bachelor's degree in advertising and marketing @Mackenzie
+- 🎓 Data Engineer - IBM Professional Certification @Coursera
 - 🎓 MBA @USP
+- 🎓 Bachelor's degree in advertising and Marketing @Mackenzie
 - 🗣️ PT | EN | SP 
 
 Interests:
